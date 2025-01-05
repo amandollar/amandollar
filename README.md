@@ -1,6 +1,3 @@
-Here's your final README:
-
----
 
 # 💫 About Me:
 I'm a MERN stack developer with expertise in **3.js** and a strong foundation in **algorithms**. With a passion for **computer science**, I am always exploring new technologies and eager to innovate and grow my skill set. I love building impactful projects and solving complex problems.
