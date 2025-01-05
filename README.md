@@ -25,4 +25,8 @@ I'm a MERN stack developer with expertise in **3.js** and a strong foundation in
 ![](https://github-contributor-stats.vercel.app/api?username=amandollar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
+## Leetcode Stats:
+
+[![amandollar's LeetCode Stats](https://coding-profile.vercel.app/api?username=amandollar&theme=Light)](https://github.com/Pranshu321/coding-profiles)
+
 
