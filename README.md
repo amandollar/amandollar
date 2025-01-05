@@ -25,7 +25,7 @@ I'm a MERN stack developer with expertise in **3.js** and a strong foundation in
 ![](https://github-contributor-stats.vercel.app/api?username=amandollar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🔥 LeetCode Stats:
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=amandollar)
+![LeetCode Stats](https://leetcode.com/u/amandollar/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amandollar&icon=7&color=0)](https://visitcount.itsvg.in)
