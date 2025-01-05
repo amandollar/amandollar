@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 I'm a MERN stack developer with expertise in **3.js** and a strong foundation in **algorithms**. With a passion for **computer science**, I am always exploring new technologies and eager to innovate and grow my skill set. I love building impactful projects and solving complex problems.
 
@@ -24,6 +23,9 @@ I'm a MERN stack developer with expertise in **3.js** and a strong foundation in
 
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=amandollar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🔥 LeetCode Stats:
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=amandollar)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amandollar&icon=7&color=0)](https://visitcount.itsvg.in)
