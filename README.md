@@ -1,32 +1,61 @@
 # 💫 About Me:
-I'm a MERN stack developer with expertise in **3.js** and a strong foundation in **algorithms**. With a passion for **computer science**, I am always exploring new technologies and eager to innovate and grow my skill set. I love building impactful projects and solving complex problems.
+🚀 **Full-Stack Engineer** specializing in high-performance web applications  
+⚡️ Expertise in **MERN stack**, **Next.js**, and **real-time systems** (WebSockets/WebRTC)  
+🔗 Building robust backends with **Prisma** + **PostgreSQL** ecosystems  
+🦀 Expanding into **Rust** for systems programming and performance-critical components  
+💎 Creating immersive experiences with **Three.js** and modern frontends (**Tailwind CSS**)  
+⛓️ **Blockchain developer** with production-grade **Solidity** experience  
+🧠 Strong foundation in **algorithms** and **computer science** principles  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aman-Sharma)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23f7f7f7.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/amandollar/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman_Sharma-%230077B5?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/Aman-Sharma)
+[![LeetCode](https://img.shields.io/badge/LeetCode-amandollar-%23FFA116?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/amandollar/)
+[![GitHub](https://img.shields.io/badge/GitHub-amandollar-%23181717?logo=github&style=for-the-badge)](https://github.com/amandollar)
 
-## 💻 Tech Stack:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)  
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+## 🛠️ Tech Stack:
+### **Frontend & UI**
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### **Real-time & Networking**
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=websocket&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+
+### **Blockchain & Systems**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+
+### **DevOps & Infrastructure**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amandollar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=amandollar&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amandollar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center" style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center">
 
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=amandollar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Overview](https://github-readme-stats.vercel.app/api?username=amandollar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/amandollar)
+[![Streak](https://streak-stats.demolab.com?user=amandollar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amandollar&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/amandollar)
+
+</div>
+
+## 🏆 LeetCode Stats:
+[![LeetCode Stats](https://leetcode.card.workers.dev/?username=amandollar&theme=dark&font=baloo&extension=null)](https://leetcode.com/u/amandollar/)
 
 
-## Leetcode Stats:
+vanced)  
 
-[![amandollar's LeetCode Stats](https://coding-profile.vercel.app/api?username=amandollar&theme=Light)](https://github.com/Pranshu321/coding-profiles)
-
-
+## ✍️ Development Philosophy:
+> "Build systems, not just apps - Create foundations that scale with both users and complexity while maintaining performance first principles."
