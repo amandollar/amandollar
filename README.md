@@ -161,7 +161,7 @@ const aman = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandollar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=7B61FF&icon_color=7B61FF"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=amandollar&theme=tokyonight&hide_border=true&background=0d1117&ring=7B61FF&fire=7B61FF&currStreakLabel=7B61FF"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandollar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B61FF"/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amandollar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7B61FF&line=7B61FF&point=ffffff"/>
